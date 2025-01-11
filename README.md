@@ -64,7 +64,6 @@ Este repositório contém a implementação de um microsserviço desenvolvido em
     {
       "id": 1,
       "nome": "Produto A",
-      "descricao": "Descrição do produto A",
       "preco": 100.0,
       "categoria": "Categoria A"
     }
@@ -85,7 +84,6 @@ Este repositório contém a implementação de um microsserviço desenvolvido em
   {
     "id": 1,
     "nome": "Produto A",
-    "descricao": "Descrição do produto A",
     "preco": 100.0,
     "categoria": "Categoria A"
   }
@@ -99,7 +97,6 @@ Este repositório contém a implementação de um microsserviço desenvolvido em
   ```json
   {
     "nome": "Produto B",
-    "descricao": "Descrição do produto B",
     "preco": 150.0,
     "categoria": "Categoria B"
   }
@@ -118,7 +115,6 @@ Este repositório contém a implementação de um microsserviço desenvolvido em
   ```json
   {
     "nome": "Produto A Atualizado",
-    "descricao": "Descrição do produto A atualizado",
     "preco": 120.0,
     "categoria": "Categoria A"
   }
