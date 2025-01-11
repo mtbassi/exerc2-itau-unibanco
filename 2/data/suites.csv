@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Jan 11 02:59:06 GMT 2025","Sat Jan 11 02:59:07 GMT 2025","840","","bassi.itau_unibanco.exerc2_itau_unibanco.Exerc2ItauUnibancoApplicationTests","","bassi.itau_unibanco.exerc2_itau_unibanco.Exerc2ItauUnibancoApplicationTests","contextLoads","Validação do perfil ativo: ""test""","Verifica se o perfil 'test' é carregado corretamente durante a inicialização da aplicação, garantindo a configuração do ambiente de teste."
