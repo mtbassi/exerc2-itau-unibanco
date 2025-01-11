@@ -30,7 +30,7 @@ Este repositório contém a implementação de um microsserviço desenvolvido em
 1. Clone o repositório:
    ```bash
    git clone https://github.com/mtbassi/exerc2-itau-unibanco.git
-   cd exerc3-itau-unibanco
+   cd exerc2-itau-unibanco
    ```
 
 2. Compile o projeto:
